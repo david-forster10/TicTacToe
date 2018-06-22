@@ -1,0 +1,10 @@
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.deps.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.pdb
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.pdb

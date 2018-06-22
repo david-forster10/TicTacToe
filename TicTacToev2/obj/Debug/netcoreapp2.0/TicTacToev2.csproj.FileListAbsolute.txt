@@ -1,0 +1,10 @@
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\obj\Debug\netcoreapp2.0\TicTacToev2.csproj.CoreCompileInputs.cache
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\obj\Debug\netcoreapp2.0\TicTacToev2.AssemblyInfoInputs.cache
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\obj\Debug\netcoreapp2.0\TicTacToev2.AssemblyInfo.cs
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\bin\Debug\netcoreapp2.0\TicTacToev2.deps.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\bin\Debug\netcoreapp2.0\TicTacToev2.runtimeconfig.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\bin\Debug\netcoreapp2.0\TicTacToev2.runtimeconfig.dev.json
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\bin\Debug\netcoreapp2.0\TicTacToev2.dll
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\bin\Debug\netcoreapp2.0\TicTacToev2.pdb
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\obj\Debug\netcoreapp2.0\TicTacToev2.dll
+C:\Users\DFORSTER\Documents\GitHub\Tic Tac Toe\TicTacToev2\obj\Debug\netcoreapp2.0\TicTacToev2.pdb
